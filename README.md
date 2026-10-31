@@ -2,7 +2,8 @@
 
 **Goal-based evaluation of AI agents on validated CVE environments.**
 DSU Undergraduate Student Mentored Research Initiative (SRI).
-Muhammad Essa & Oluwajuwon Adedowole · Mentor: Pat Engebretson
+Muhammad Essa & Oluwajuwon Adedowole 
+Mentor: Pat Engebretson
 
 Leviathan measures how well frontier and local LLM agents (GPT-5.6 Sol, Claude Opus, Qwen) achieve frozen,
 impact-specific goals against independently validated targets for recent CVEs that have no public PoC.
