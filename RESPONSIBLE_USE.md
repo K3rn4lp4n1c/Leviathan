@@ -18,13 +18,6 @@ governs what goes into this repository and what is released.
 - Disclosed CVEs only. If an agent appears to find a **new** vulnerability, stop, record it privately,
   notify the mentor, and follow coordinated disclosure with the vendor.
 
-## Release checklist (before making anything public)
-- [ ] Mentor (Pat Engebretson) approves the release
-- [ ] Repo scanned for secrets (`gitleaks detect`) and full git history checked
-- [ ] Exploit artifacts removed, or replaced with redacted summaries (technique class, success/fail, cost)
-- [ ] Any dataset of artifacts is access-gated (request form + research-use agreement), not public
-- [ ] DSU IP/research policy confirmed for SRI-funded work
-- [ ] Model provider usage policies reviewed for publication of results
 
 ## Reporting
 Security issues with this repository: contact the maintainers privately; do not open a public issue.
